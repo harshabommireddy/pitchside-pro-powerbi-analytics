@@ -1,4 +1,4 @@
-⚽ PitchSide Pro - Executive Power BI Analytics
+PitchSide Pro - Executive Power BI Analytics
 
 An end-to-end Business Intelligence project developed using **Power BI, Power Query, DAX, and Data Modeling** for the Microsoft Power BI Dataviz World Championships (Round 1).
 
